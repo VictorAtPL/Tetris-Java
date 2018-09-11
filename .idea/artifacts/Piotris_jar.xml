@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Piotris:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Piotris_jar</output-path>
+    <root id="archive" name="Piotris.jar">
+      <element id="module-output" name="Piotris" />
+    </root>
+  </artifact>
+</component>
